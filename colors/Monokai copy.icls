@@ -507,7 +507,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="fff1a6" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -891,6 +891,11 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="JS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
