@@ -618,9 +618,6 @@
         <option name="FOREGROUND" value="48ff60" />
       </value>
     </option>
-    <option name="EL_BACKGROUND">
-      <value />
-    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="d13534" />

@@ -2,4 +2,7 @@
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
   </JSCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
 </code_scheme>
