@@ -12,6 +12,30 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="moment-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_moment_moment-node.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_moment_moment.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_moment_moment-node.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_moment_moment.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="moment-range-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_moment-range_moment-range.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_moment-range_moment-range.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="react-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/WebStorm9/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_react_react.d.ts" />
