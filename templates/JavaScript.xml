@@ -1,0 +1,12 @@
+<templateSet group="JavaScript">
+  <template name="log" value="console.log($param1$)" description="console log a thing" toReformat="false" toShortenFQNames="true">
+    <variable name="param1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
