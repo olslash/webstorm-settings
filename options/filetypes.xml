@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="15">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="organizations" type="JavaScript" />
+      <mapping ext="ttf" type="Native" />
+      <mapping pattern="organizations.js" type="PLAIN_TEXT" />
+      <mapping pattern="SidebarList.jsx" type="PLAIN_TEXT" />
+      <mapping pattern="routes" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmjs" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="stylus" type="Stylus" />
+    </extensionMap>
+  </component>
+</application>
