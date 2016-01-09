@@ -1,5 +1,0 @@
-<templateSet group="coffeescript">
-  <template name="log" value="console.log " description="console log a thing" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
-</templateSet>
