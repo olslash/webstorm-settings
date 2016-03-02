@@ -818,10 +818,6 @@
           <option name="groupName" value="Zen HTML" />
           <option name="key" value="pic+" />
         </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="React Templates " />
-          <option name="key" value="rtr" />
-        </TemplateKey>
       </list>
     </option>
   </component>
