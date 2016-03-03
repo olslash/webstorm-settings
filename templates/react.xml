@@ -1,5 +1,5 @@
 <templateSet group="react">
-  <template name="rc" value="import React from 'react';&#10;// import {} from 'lodash';&#10;&#10;// import { PropTypes } from 'helpers/react'&#10;// const {} = PropTypes;&#10;&#10;&#10;export default class $NAME$ extends React.Component {&#10;  static propTypes = {};&#10;  static defaultProps = {};&#10;  &#10;  render() {&#10;    return null;&#10;  }&#10;}" description="make an empty react class in a new file (nc3)" toReformat="true" toShortenFQNames="true">
+  <template name="rc" value="import React from 'react';&#10;// import {} from 'lodash';&#10;&#10;// import { PropTypes } from 'helpers/react';&#10;// const {} = PropTypes;&#10;&#10;&#10;export default class $NAME$ extends React.Component {&#10;  static propTypes = {};&#10;  static defaultProps = {};&#10;  &#10;  render() {&#10;    return null;&#10;  }&#10;}" description="make an empty react class in a new file (nc3)" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="Thing" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
