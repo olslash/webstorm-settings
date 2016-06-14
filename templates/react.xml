@@ -6,8 +6,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="mod" value="import { createReducer } from 'helpers/redux';&#10;// import { } from 'lodash';&#10;&#10;export const namespace = '$NS$';&#10;&#10;const ACTION = 'nc/$NS$/ACTION';&#10;&#10;const defaultState = {&#10;&#10;};&#10;&#10;const reducer = createReducer(defaultState, {&#10;&#10;});&#10;&#10;export default reducer;&#10;&#10;function local(state) {&#10;  return state[namespace];&#10;}&#10;" description="new module" toReformat="false" toShortenFQNames="true">
+  <template name="mod" value="import { createReducer } from 'helpers/redux';&#10;// import { } from 'lodash';&#10;&#10;export const namespace = '$NS$';&#10;&#10;const $ACTION$ = 'nc/$NS$/$ACTION$';&#10;&#10;const defaultState = {&#10;&#10;};&#10;&#10;const reducer = createReducer(defaultState, {&#10;  [$ACTION$](state, action) {&#10;    return state;&#10;  }&#10;});&#10;&#10;export default reducer;&#10;&#10;function local(state) {&#10;  return state[namespace];&#10;}&#10;&#10;export function doThing(val) {&#10;  return {&#10;    type: $ACTION$,&#10;    payload: val&#10;  }&#10;}" description="new module" toReformat="false" toShortenFQNames="true">
     <variable name="NS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACTION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
