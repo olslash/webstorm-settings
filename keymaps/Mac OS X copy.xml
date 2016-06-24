@@ -8,6 +8,7 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="ContextHelp" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomElementsTreeView.DeleteElement">
