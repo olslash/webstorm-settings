@@ -18,6 +18,7 @@
               <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
               <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
               <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
             </list>
           </option>
         </PlaceSettings>
